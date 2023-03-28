@@ -4,15 +4,15 @@ A summary of the "asynchronous discussion"
 
 ## Purpose and scope
 
-* Building a truly global community
+* Build a truly global community
 * Connect people, projects and expertise around automated monitoring
-* Identifying and developing global standards
-* Sharing existing methods. Exchange experience
-* Coordinating efforts across all automated monitoring technologies
+* Identify and develop global standards
+* Share existing methods. Exchange experience
+* Coordinate efforts across all automated monitoring technologies
 * Support research, conservation and engagement
 * Provide logistics for hardware and software development
-* Synthesising the state of the art and ways forward
-* It's crucial to decide the distinct role for this group (USP!)
+* Synthesise the state of the art and ways forward
+* First: Decide the distinct role for this group (USP!)
 
 ## Activites
 
