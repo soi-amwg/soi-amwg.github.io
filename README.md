@@ -12,7 +12,7 @@ A summary of the "asynchronous discussion"
 * Support research, conservation and engagement
 * Provide logistics for hardware and software development
 * Synthesise the state of the art and ways forward
-* First: Decide the distinct role for this group (USP!)
+* First: **Decide the distinct role for this group (USP!)**
 
 ## Activites
 
@@ -24,12 +24,13 @@ A summary of the "asynchronous discussion"
 
 ## Products
 
-* A website synthesising and organising methods, datasets, communities and papers
+* A website synthesising and organising standards, methods, datasets, communities and papers
 * Research articles - especially opinions/synthesis
-* Expanded sensor networks
+* Expanded or global sensor networks
 * Open-source database of studies with associated metrics
 * A clear specification of user needs
 * A modular framework for automated monitoring methods
+* A golabl API to facilitate data interoperability
 
 ## Recruitment and leadership
 
