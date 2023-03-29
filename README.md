@@ -1,6 +1,6 @@
 # Automated Monitoring Working Group formation
 
-A summary of the "asynchronous discussion"
+A summary of the "asynchronous discussion" with proposals for purpose, scope, activities, products, recruitment and leadership of the working group.
 
 ## Purpose and scope
 
@@ -20,11 +20,11 @@ A summary of the "asynchronous discussion"
 * Workshops and hackathons connecting developers and users
 * Round table, transcontinental discussions
 * Discussions with industry
-* Co-synthesise automated monitoring knowledge in a public online space (GitHub)
+* Collective infrastructure: Co-synthesise automated monitoring knowledge in a public online space (GitHub)
 
 ## Products
 
-* A website synthesising and organising standards, methods, datasets, communities and papers
+* A website synthesising and organising standards, methods, datasets, fora, papers
 * Research articles - especially opinions/synthesis
 * Expanded or global sensor networks
 * Open-source database of studies with associated metrics
