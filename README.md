@@ -30,7 +30,7 @@ A summary of the "asynchronous discussion" with proposals for purpose, scope, ac
 * Open-source database of studies with associated metrics
 * A clear specification of user needs
 * A modular framework for automated monitoring methods
-* A golabl API to facilitate data interoperability
+* A global API to facilitate data interoperability
 
 ## Recruitment and leadership
 
