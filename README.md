@@ -36,4 +36,5 @@ A summary of the "asynchronous discussion"
 
 * Suggestions for more global and early-career representation
 * A cap of 15 members is difficult to work with. Perhaps we can change this?
+* Perhaps each of us reach out to someone from outside Europe and North America
 * Tentative interest from Roel and Tom to lead/co-lead
